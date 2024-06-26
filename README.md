@@ -9,7 +9,6 @@
 - ![Static Badge](https://img.shields.io/badge/libs-aiogram%203.x,%20flet-blue)
 - ![Static Badge](https://img.shields.io/badge/license-MIT-white)
 
-https://ibb.co/KqksL89
 ## About 
 - ***Welcome to the world of clicker bot, your reliable assistant in earning cryptocurrency! This innovative tool will allow you to maximize your income by simply clicking on certain tasks and collecting cryptocurrency. The bot will automatically perform all monotonous operations, freeing up your time for more important things. Don't miss the opportunity to increase your income without extra effort - start using the clicker bot today and enjoy new opportunities in the world of cryptocurrency!***
 
