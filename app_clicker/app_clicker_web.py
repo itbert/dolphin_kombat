@@ -19,8 +19,8 @@ async def main(page: Page) -> None:
         counter_of_coins_click.opacity = 1
         counter_of_coins_click.value = '+1'
         counter_of_coins_click.right = 0
-        # counter_of_coins_click.left = event.local_x
-        # counter_of_coins_click.top = event.local_y
+        counter_of_coins_click.left = event.local_x
+        counter_of_coins_click.top = event.local_y
         counter_of_coins_click.bottom = 0
         progress_clicks.value += (1 / 100)  # Шкала кликов разделена на 100 делений, уведомление о каждых +100 кликов
 
