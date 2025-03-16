@@ -26,6 +26,7 @@
 
  ## Developers
  - Me (no one wants to develop with me =/ ) 
+ - dimmazda
 
 ## License
 Project distributed under the MIT license 
